@@ -8,16 +8,21 @@
 		{
 			"id": "?",
 			"recipient": {
-				"name": " \n姓名\n",
-				"address": " \n地址\n"
+				"name": "沃尔玛",
+				"address": "济宁 "
 			},
 			"currency": "$",
 			"services": [
 				{
-					"description": "\n所提供服务的说明\n",
-					"amount": "金额"
+					"description": "购物",
+					"amount": "300"
+				},
+				{
+					"description": "停车",
+					"amount": "6"
 				}
-			]
+			],
+			"date": "2021-07-11"
 		}
 	]
 }
