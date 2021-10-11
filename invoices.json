@@ -1,5 +1,5 @@
 {
-	"companyLogo": "https://lea.verou.me/logo.svg",
+	"companyLogo": "https://api.asilu.com/gravatar/21c5ced0727c0761757e980c75388f72",
 	"companyName": "简爱",
 	"companyAddress": "山东",
 	"companyURL": "https://asilu.com",
@@ -19,7 +19,7 @@
 			"id": "1",
 			"recipient": {
 				"name": "沃尔玛",
-				"address": "济宁 "
+				"address": "济宁"
 			},
 			"currency": "$",
 			"services": [
