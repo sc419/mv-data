@@ -1,0 +1,23 @@
+{
+	"companyLogo": "https://lea.verou.me/logo.svg",
+	"companyName": "Lea Verou",
+	"companyAddress": "42 JavaScript Way\nBoston, MA 02114\nUSA",
+	"companyURL": "http://lea.verou.me",
+	"companyEmail": "lea@verou.me",
+	"invoice": [
+		{
+			"id": "?",
+			"recipient": {
+				"name": " \n姓名\n",
+				"address": " \n地址\n"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "\n所提供服务的说明\n",
+					"amount": "金额"
+				}
+			]
+		}
+	]
+}
