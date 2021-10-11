@@ -6,6 +6,7 @@
 	"companyEmail": "*@qq.com",
 	"invoice": [
 		{
+			"date": "2021-10-08",
 			"recipient": {
 				"name": "gfdgh"
 			},
