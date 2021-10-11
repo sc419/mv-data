@@ -6,6 +6,15 @@
 	"companyEmail": "*@qq.com",
 	"invoice": [
 		{
+			"recipient": {
+				"name": "gfdgh"
+			},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "1",
 			"recipient": {
 				"name": "沃尔玛",
